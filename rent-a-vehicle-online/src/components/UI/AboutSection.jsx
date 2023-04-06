@@ -20,12 +20,8 @@ const AboutSection = ({ aboutClass }) => {
               <h4 className="section__subtitle">About Us</h4>
               <h2 className="section__title">Welcome to Vehicle rent service</h2>
               <p className="section__description">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Voluptatum blanditiis esse accusantium dignissimos labore
-                laborum. Veniam, corporis mollitia temporibus, in quaerat vero
-                deleniti amet dolorem repudiandae, pariatur nam dolore! Impedit
-                neque sit ad temporibus quam similique dolor ipsam praesentium
-                sunt.
+              Our inventory includes a variety of two-wheelers, ranging from economical scooters to high-performance motorcycles, so you can choose the vehicle that suits your needs and budget. With our transparent pricing system, you can rest assured that there will be no hidden fees or unexpected charges when you rent from us.
+Renting a vehicle online from our site is not only convenient but also offers you the freedom to explore the city at your own pace. You can avoid the hassle of public transportation, and take in all the sights and sounds of the city with ease.
               </p>
 
               <div className="about__section-item d-flex align-items-center">
