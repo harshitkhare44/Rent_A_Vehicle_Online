@@ -1,44 +1,44 @@
 const serviceData = [
   {
     id: 1,
-    title: "City Transfer",
+    title: "Easy booking process",
     icon: "ri-map-pin-2-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "Our user-friendly website makes it easy to search for and book a vehicle within minutes.",
   },
 
   {
     id: 2,
-    title: "Whole  City Tour",
+    title: "Competitive pricing",
     icon: "ri-community-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "We offer transparent and upfront pricing with no hidden fees, ensuring that you get the best value for your money.",
   },
 
   {
     id: 3,
-    title: "Unlimited Miles Car Rental",
+    title: "Range of vehicles",
     icon: "ri-roadster-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: " We provide a variety of two-wheelers to suit all budgets and preferences, from economical scooters to high-performance motorcycles.",
   },
 
   {
     id: 4,
-    title: "Fast & Easy Booking",
+    title: "Flexible rental periods",
     icon: "ri-timer-flash-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: " We offer rental periods ranging from a few hours to several days, allowing you to rent a vehicle for as long as you need it.",
   },
 
   {
     id: 5,
-    title: "Many Pickup Locations",
+    title: "24/7 customer support:",
     icon: "ri-map-pin-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "Our customer support team is available round-the-clock to assist you with any queries or concerns you may have",
   },
 
   {
     id: 6,
-    title: "Airport Transfer",
+    title: "Competitive insurance options",
     icon: "ri-flight-takeoff-line",
-    desc: "Tempor tempor sadipscing vero lorem sea, invidunt sed et eos ipsum et erat. Dolor ut duo sadipscing lorem. Gubergren gub",
+    desc: "We offer competitive insurance options to provide you with additional protection and peace of mind while you ride.",
   },
 ];
 
