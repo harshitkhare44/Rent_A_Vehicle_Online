@@ -22,8 +22,8 @@ const HeroSlider = () => {
       <div className="slider__item slider__item-01 mt0">
         <Container>
           <div className="slider__content ">
-            <h4 className="text-light mb-3">For Rent $70 Per Day</h4>
-            <h1 className="text-light mb-4">Reserve Now and Get 50% Off</h1>
+            <h4 className="text-light mb-3">Rent for 60rs/hour</h4>
+            <h1 className="text-light mb-4">Reserve Now and Get 25% Off</h1>
 
             <button className="btn reserve__btn mt-4">
               <Link to="/cars">Reserve Now</Link>
@@ -35,7 +35,7 @@ const HeroSlider = () => {
       <div className="slider__item slider__item-02 mt0">
         <Container>
           <div className="slider__content ">
-            <h4 className="text-light mb-3">For Rent $70 Per Day</h4>
+            <h4 className="text-light mb-3">For Rent 70Rs/Hour</h4>
             <h1 className="text-light mb-4">Reserve Now and Get 50% Off</h1>
 
             <button className="btn reserve__btn mt-4">
