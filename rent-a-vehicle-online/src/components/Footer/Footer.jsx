@@ -9,9 +9,7 @@ const quickLinks = [
     path: "/about",
     display: "About",
   },
-{
-  path:
-}
+
   {
     path: "#",
     display: "Privacy Policy",
