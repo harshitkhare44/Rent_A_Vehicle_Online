@@ -2,13 +2,14 @@ import React from "react";
 import "../../styles/our-member.css";
 import { Col } from "reactstrap";
 import { Link } from "react-router-dom";
-import ava01 from "../../assets/all-images/ava-1.jpg";
-import ava02 from "../../assets/all-images/ava-2.jpg";
-import ava03 from "../../assets/all-images/ava-3.jpg";
+import ava01 from "../../assets/all-images/aryan.jpg";
+import ava02 from "../../assets/all-images/Harshit.jpg";
+import ava03 from "../../assets/all-images/yash.jpg";
+import ava04 from "../../assets/all-images/Aakarshit.jpg";
 
 const OUR__MEMBERS = [
   {
-    name: "Jhon Doe",
+    name: "Aryan Nigam",
     experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
@@ -16,9 +17,8 @@ const OUR__MEMBERS = [
     linkedinUrl: "#",
     imgUrl: ava01,
   },
-
   {
-    name: "David Lisa",
+    name: "Harshit Khare",
     experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
@@ -28,7 +28,7 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "Hilton King",
+    name: "Yash Jaiswal",
     experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
@@ -38,13 +38,13 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "Jhon Doe",
+    name: "Aakarshit Raj",
     experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
     linkedinUrl: "#",
-    imgUrl: ava01,
+    imgUrl: ava04,
   },
 ];
 

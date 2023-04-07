@@ -28,21 +28,17 @@ const About = () => {
             <Col lg="6" md="6" sm="12">
               <div className="about__page-content">
                 <h2 className="section__title">
-                  We Are Committed To Provide Safe Ride Solutions
+                Easy booking by just providing a college ID card
                 </h2>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                This feature allows college students to easily rent a bike or scooty without the hassle of providing a driver's license or other forms of identification.
+With this feature, college students can simply provide their college ID card and a few other personal details, such as their name and contact information, to quickly book a bike or scooty rental online. This eliminates the need for students to go through the process of obtaining a driver's license, which can be time-consuming and costly.
                 </p>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                This feature is especially beneficial for students who need to travel short distances within the city or campus. It is an affordable and convenient mode of transportation that saves time and money. Additionally, this feature allows students to easily access the rental services without having to worry about the complex documentation process.
+Overall, the easy booking feature with college ID cards simplifies the rental process for students and makes it more accessible to them. It is a great addition to online bike and scooty rental websites that cater to college students who need to travel short distances quickly and efficiently.
                 </p>
 
                 <div className=" d-flex align-items-center gap-3 mt-4">
@@ -52,7 +48,7 @@ const About = () => {
 
                   <div>
                     <h6 className="section__subtitle">Need Any Help?</h6>
-                    <h4>+00123456789</h4>
+                    <h4>918317054041</h4>
                   </div>
                 </div>
               </div>
