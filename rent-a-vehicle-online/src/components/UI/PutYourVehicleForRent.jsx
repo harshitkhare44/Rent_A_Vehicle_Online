@@ -1,8 +1,8 @@
 import React from "react";
-import "../../styles/become-driver.css";
+import "../../styles/GiveYourVehicle.css";
 import { Container, Row, Col } from "reactstrap";
 
-import driverImg from "../../assets/all-images/toyota-offer-2.png";
+import driverImg from "../../assets/all-images/cars-img/GiveYourVehicleForRent.jpg";
 
 const BecomeDriverSection = () => {
   return (
@@ -15,11 +15,11 @@ const BecomeDriverSection = () => {
 
           <Col lg="6" md="6" sm="12">
             <h2 className="section__title become__driver-title">
-              Do You Want to Earn With Us? So Don't Be Late
+              Do You Want to give your Vehicle for rent?
             </h2>
 
             <button className="btn become__driver-btn mt-4">
-              Become a Driver
+             Put your vehicle for rent and earn money
             </button>
           </Col>
         </Row>
