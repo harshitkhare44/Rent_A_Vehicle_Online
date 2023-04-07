@@ -49,10 +49,11 @@ const Footer = () => {
               </h1>
             </div>
             <p className="footer__logo-content">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consequuntur, distinctio, itaque reiciendis ab cupiditate harum ex
-              quam veniam, omnis expedita animi quibusdam obcaecati mollitia?
-              Delectus et ad illo recusandae temporibus?
+            Thank you for choosing our rent-a-vehicle online website for your transportation needs. We hope that our service has provided you with a hassle-free and convenient experience.
+
+If you have any feedback or suggestions, please do not hesitate to contact us. We are always looking for ways to improve our service and make your experience even better.
+
+Safe travels and we hope to serve you again in the near future!
             </p>
           </Col>
 
