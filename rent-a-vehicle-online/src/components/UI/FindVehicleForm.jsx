@@ -1,9 +1,9 @@
 import React from "react";
-import "../../styles/find-car-form.css";
-import "../../styles/find-car-form.css";
+import "../../styles/find-vehicle-form.css";
+import "../../styles/find-vehicle-form.css";
 import { Form, FormGroup } from "reactstrap";
 
-const FindCarForm = () => {
+const FindVehicleForm = () => {
   return (
     <Form className="form">
       <div className=" d-flex align-items-center justify-content-between flex-wrap">
@@ -42,4 +42,4 @@ const FindCarForm = () => {
   );
 };
 
-export default FindCarForm;
+export default FindVehicleForm;

@@ -1,9 +1,9 @@
 import React from "react";
 import { Col } from "reactstrap";
 import { Link } from "react-router-dom";
-import "../../styles/car-item.css";
+import "../../styles/vehicle-item.css";
 
-const CarItem = (props) => {
+const VehicleItem = (props) => {
   const { imgUrl, model, carName, automatic, speed, price } = props.item;
 
   return (
@@ -44,4 +44,4 @@ const CarItem = (props) => {
   );
 };
 
-export default CarItem;
+export default VehicleItem;

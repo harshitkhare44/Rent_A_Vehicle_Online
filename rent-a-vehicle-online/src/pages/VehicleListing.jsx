@@ -8,7 +8,7 @@ import carData from "../assets/data/VehicleData";
 const VehicleListing = () => {
   return (
     <Helmet title="Cars">
-      <CommonSection title="Car Listing" />
+      <CommonSection title="Vehicle Listing" />
 
       <section>
         <Container>
