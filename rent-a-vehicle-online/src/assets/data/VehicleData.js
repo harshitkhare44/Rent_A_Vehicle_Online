@@ -9,21 +9,21 @@ import img06 from "../all-images/cars-img/Yamaha Fascino.webp";
 import img07 from "../all-images/cars-img/TVS Jupiter.png";
 import img08 from "../all-images/cars-img/TVS Raider 125.jpg";
 
-const carData = [
+const vehicleData = [
   {
     id: 1,
     brand: "Royal Enfield",
     rating: 112,
     carName: "Bullet",
     imgUrl: img01,
-    model: "Model 3",
+    model: "Classic 350",
     price: 50,
-    speed: "20kmpl",
-    gps: "GPS Navigation",
-    seatType: "Heated seats",
-    automatic: "",
+    speed: " 80 km/hour (approximate)",
+    gps: "Available on request",
+    seatType: "Single seat",
+    automatic: "No",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+      " The Royal Enfield Bullet is a classic motorcycle known for its iconic design and powerful performance. The Classic 350 model is a fan favorite, featuring a 346cc engine and a sturdy frame that can handle any terrain. With a top speed of around 80 km/hour, this bike is perfect for long rides and exploring new destinations. The single seat design adds to the vintage look of the bike, and the available GPS ensures that you never get lost on your adventure. Rent the Royal Enfield Bullet today and experience the thrill of riding a true classic.",
   },
 
   {
@@ -39,7 +39,7 @@ const carData = [
     seatType: "Heated seats",
     automatic: "",
     description:
-      " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
+    "The Honda Activa 5G is a popular choice for those who want a reliable and efficient scooter. The 2022 model boasts a sleek and modern design, with improved features that make it an even better option for daily commuting or leisurely rides. With a fuel efficiency of 20 kmpl, the Activa 5G is an economical choice that won't break the bank. The heated seats provide extra comfort on chilly days, while the GPS navigation system ensures that you never get lost. Plus, the automatic transmission makes it easy to ride, even for beginners. Rent the Honda Activa 5G today and experience the convenience and style that it has to offer.",
   },
 
   {
@@ -139,4 +139,4 @@ const carData = [
   },
 ];
 
-export default carData;
+export default vehicleData;

@@ -45,6 +45,30 @@ const blogData = [
     quote:
       "Renting a scooter or bike online is not only good for your wallet, but also for the environment. It's a sustainable transportation option that reduces your carbon footprint",
   },
+  {
+    id: 4,
+    title: "Flexibility",
+    author: "Kaustubh",
+    date: "12 Dec, 2020",
+    time: "9pm",
+    imgUrl: img04,
+    description:
+      " Renting a scooter or bike online gives you the freedom to travel on your terms. You can rent a vehicle for as long as you need, whether it's a few hours or several days. Plus, you can choose from a variety of vehicles, including scooters, bikes, and e-bikes, depending on your preferences and needs. This flexibility allows you to plan your trip the way you want and explore your destination at your own pace",
+    quote:
+      "Renting a scooter or bike online gives you the flexibility to explore your destination at your own pace, without being tied to public transportation schedules or the expense of owning a vehicle.",
+  },
+  {
+    id: 5,
+    title: "Safety",
+    author: "Kaustubh",
+    date: "12 Dec, 2020",
+    time: "9pm",
+    imgUrl: img05,
+    description:
+      " Online rental platforms prioritize safety and ensure that all vehicles are well-maintained and regularly serviced. Many platforms also provide helmets and other safety gear to ensure that riders are protected while on the road. Additionally, most platforms require users to provide a valid driver's license and follow traffic rules and regulations, further ensuring the safety of riders.",
+    quote:
+      "Online rental platforms prioritize safety and provide riders with well-maintained vehicles and safety gear, ensuring a secure and enjoyable ride.",
+  },
 ];
 
 export default blogData;

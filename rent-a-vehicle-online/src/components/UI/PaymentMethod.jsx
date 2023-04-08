@@ -1,7 +1,7 @@
 import React from "react";
 
 import masterCard from "../../assets/all-images/master-card.jpg";
-import paypal from "../../assets/all-images/paypal.jpg";
+import upi from "../../assets/all-images/upi.png";
 import "../../styles/payment-method.css";
 
 const PaymentMethod = () => {
@@ -9,7 +9,7 @@ const PaymentMethod = () => {
     <>
       <div className="payment">
         <label htmlFor="" className="d-flex align-items-center gap-2">
-          <input type="radio" /> Direct Bank Transfer
+          <input type="radio" /> Net Banking
         </label>
       </div>
 
@@ -21,7 +21,7 @@ const PaymentMethod = () => {
 
       <div className="payment mt-3 d-flex align-items-center justify-content-between">
         <label htmlFor="" className="d-flex align-items-center gap-2">
-          <input type="radio" /> Master Card
+          <input type="radio" /> Master Card/Debit Card
         </label>
 
         <img src={masterCard} alt="" />
@@ -29,10 +29,10 @@ const PaymentMethod = () => {
 
       <div className="payment mt-3 d-flex align-items-center justify-content-between">
         <label htmlFor="" className="d-flex align-items-center gap-2">
-          <input type="radio" /> Paypal
+          <input type="radio" /> UPI
         </label>
 
-        <img src={paypal} alt="" />
+        <img src={upi} width={75} alt="" />
       </div>
       <div className="payment text-end mt-5">
         <button>Reserve Now</button>

@@ -4,7 +4,7 @@ import { Container, Row, Col } from "reactstrap";
 
 import driverImg from "../../assets/all-images/cars-img/GiveYourVehicleForRent.jpg";
 
-const BecomeDriverSection = () => {
+const GiveYourVehicleForRent = () => {
   return (
     <section className="become__driver">
       <Container>
@@ -28,4 +28,4 @@ const BecomeDriverSection = () => {
   );
 };
 
-export default BecomeDriverSection;
+export default GiveYourVehicleForRent;
