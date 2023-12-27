@@ -99,7 +99,7 @@ Safe travels and we hope to serve you again in the near future!
             <div className="footer__bottom">
               <p className="section__description d-flex align-items-center justify-content-center gap-1 pt-4">
                 <i class="ri-copyright-line"></i>Copyright {year}, Developed by
-              team members:Harshit Khare,Aryan Nigam,Aakarshit Raj and Yash Jaiswal. All rights reserved.
+              team members:Harshit Khare.All rights reserved.
               </p>
             </div>
           </Col>
